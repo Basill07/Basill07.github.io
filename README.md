@@ -4,4 +4,4 @@ Personal portfolio of **Basil Thomas**: Software Design student at TH Aschaffenb
 
 Live at https://basill07.github.io
 
-Built as a single HTML page with Three.js (WebGL), no build step.
+Built as a single HTML page with Three.js (WebGL), GSAP and Lenis, no build step.
